@@ -1,0 +1,9 @@
+pytest
+pytest-mock
+pytest-responses
+pylint
+flake8
+coverage
+Requests==2.28.1
+jsonschema==4.16.0
+urllib3==1.26.12
