@@ -1,0 +1,13 @@
+{
+  "name": "simple-ecomm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:erkjbro/simple-ecomm.git",
+  "author": "Erik J Brown <erkjbro@erikjbrown.tech>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nrwl/cli": "^14.8.4",
+    "nx": "14.8.4",
+    "@nrwl/nx-cloud": "latest"
+  }
+}
