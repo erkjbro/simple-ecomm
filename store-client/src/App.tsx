@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { Routes, Route, Redirect } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 import * as Pages from './pages';
 import { Navbar } from './components';
