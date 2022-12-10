@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Plp: React.FC = () => {
+const ProductListing: React.FC = () => {
   return (
     <div>
-      <h1>Plp</h1>
+      <h1>Product Listing</h1>
     </div>
   );
 };
 
-export { Plp };
+export { ProductListing };
